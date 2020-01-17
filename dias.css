@@ -1,0 +1,27 @@
+body {
+  background: #333;
+  color: white;
+}
+
+h1 {
+  margin: 0;
+  text-align: center;
+  font-size: 150px;
+  color: white;
+  cursor: pointer;
+}
+
+button {
+  border: 0;
+  background: #191919;
+  color: white;
+  padding: 10px 20px;
+}
+
+#player {
+  opacity: 0;
+}
+
+#resetter {
+  display: none;
+}
